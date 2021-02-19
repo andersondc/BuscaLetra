@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/19 09:26:22.000.941,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/19 09:28:52.000.553,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Busca Letra Musica API\Principal.fmx=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/02/19 09:28:52.000.553,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Busca Letra Musica API\Principal.pas=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/19 09:28:59.000.802,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Busca Letra Musica API\APILetra.dproj=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
