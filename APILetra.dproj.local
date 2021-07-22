@@ -7,7 +7,7 @@
     <Transaction>2021/02/19 09:28:59.000.802,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Busca Letra Musica API\APILetra.dproj=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android=""/>
+		<NoProfile iOSSimulator="iPhone5" Android="AVD_for_Teste_Tablet"/>
 	</ActiveMobileDevice>
 	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
